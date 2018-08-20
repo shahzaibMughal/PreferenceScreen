@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Preference Screen</string>
+    <string name="show_face">show_face</string>
+</resources>
